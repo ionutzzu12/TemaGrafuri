@@ -1,2 +1,4 @@
 docsPath: ./docs/
+shadowDocs:
+  - "docs/*"
 publishSpace: true
