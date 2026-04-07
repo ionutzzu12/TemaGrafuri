@@ -1,0 +1,160 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "XV6zjANPBHiiJuJ2s82lF.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "BASIC",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "BASIC/xzHy-dup2.mdx",
+            "children": []
+          },
+          {
+            "path": "BASIC/dup2.mdx",
+            "children": []
+          },
+          {
+            "path": "BASIC/hyKO-dup2.mdx",
+            "children": []
+          },
+          {
+            "path": "BASIC/dup1.mdx",
+            "children": []
+          },
+          {
+            "path": "BASIC/EMhN-dup1.mdx",
+            "children": []
+          },
+          {
+            "path": "BASIC/heading-expandable-blocks.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/checklist-list-blocks.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/table-divider-blocks.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/buttons-callouts-blocks.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/vertical-split-blocks.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/link-grid-block.md",
+            "children": []
+          },
+          {
+            "path": "BASIC/workflow-tabs-blocks.md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "categoryName": "MEDIA",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "MEDIA/file-block.md",
+            "children": []
+          },
+          {
+            "path": "MEDIA/images-embeds-blocks.md",
+            "children": []
+          },
+          {
+            "path": "MEDIA/map-block.md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "categoryName": "DEVELOPER",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "DEVELOPER/api-endpoint-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/swagger-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/scalar-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/graphql-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/code-drawer-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/code-editor-block.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/tex-mermaid-blocks.md",
+            "children": []
+          },
+          {
+            "path": "DEVELOPER/changelog-block.md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "categoryName": "OTHERS",
+        "isCategory": true,
+        "children": [
+          {
+            "children": [],
+            "isLink": true,
+            "linkTitle": "External Link - Filled - Custom Icon",
+            "linkHref": "www.archbee.com",
+            "linkOpensInNewTab": false
+          },
+          {
+            "children": [],
+            "isLink": true,
+            "linkTitle": "External Link - Filled - Simple",
+            "linkHref": "www.archbee.com",
+            "linkOpensInNewTab": true
+          },
+          {
+            "children": [],
+            "isLink": true,
+            "linkTitle": "Untitled",
+            "linkHref": ""
+          },
+          {
+            "path": "OTHERS/hidden-document.mdx",
+            "children": [],
+            "isHidden": true
+          }
+        ]
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "shadowDocs": []
+}
